@@ -6,7 +6,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Rafa-js" height="30" width="40" src=""https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"">
+  <img align="center" alt="Rafa-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
    <img align="center" alt="Rafa-js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
  
   <img align="right" alt="xande-pic" height="150" style="border-radius:70px;" src="https://cdn.discordapp.com/avatars/685510073849610352/1e0ed4129d26338e1ebc073d1d269ac6.png?size=2048">
