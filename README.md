@@ -1,5 +1,5 @@
 ### Hi there 👋
-## Oiii eu sou Alexandre Oliveira, estudande de progamação Full-Stack
+## Oiii eu sou Alexandre Oliveira, estudande de Desenvolvimento  Web
 ## Atualmente estou estudando:
  
  
