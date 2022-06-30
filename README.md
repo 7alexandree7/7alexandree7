@@ -1,6 +1,6 @@
 ### Hi there 👋
-## Oiii eu sou Alexandre Oliveira, estudande de Desenvolvimento  Web
-## Atualmente estou estudando:
+## I'm alexandre oliveira, I study programming with the desire to one day become a full stack programmer
+
  
  
   ## Techs
