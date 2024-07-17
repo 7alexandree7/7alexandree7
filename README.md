@@ -19,8 +19,6 @@
 
 <!-- Skills -->
 <div align="center">
-  <img align="right" width="498" height="329" src="https://media.tenor.com/UlmNqQlrC6QAAAAi/mega-charizard-x-flying.gif">
-  
   <h3>Languages and Technologies</h3>
   <p>
     <a href="https://skillicons.dev">
