@@ -22,7 +22,7 @@
   <h3>Languages and Technologies</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts" width="30" height="30"/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts" width="40" height="40"/>
     </a>
   </p>
 </div>
@@ -40,7 +40,7 @@
   <h3>Tools and Platforms</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" width="30" height="30"/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" width="40" height="40"/>
     </a>
   </p>
 </div>
