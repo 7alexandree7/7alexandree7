@@ -45,10 +45,9 @@
 
 ### Tools and Platforms
 <p>
-  <img alt="Git" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg">
-  <img alt="Github" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg">
-  <img alt="Photoshop" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg">
-  <img alt="Vscode" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
+  </a>
 </p>
 
 <!-- Status -->
