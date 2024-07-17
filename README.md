@@ -41,7 +41,7 @@
   <h3>Tools and Platforms</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
+      <img src="https://skillicons.dev/icons?i=git,github,npm,vite,vercel,vscode,pycharm" />
     </a>
   </p>
 </div>
