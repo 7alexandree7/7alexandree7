@@ -31,7 +31,7 @@
   <h3>Frameworks and Libraries</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=bootstrap,react,nextjs,materialui" width="30" height="30"/>
+      <img src="https://skillicons.dev/icons?i=bootstrap,react,nextjs,materialui" width="40" height="40"/>
     </a>
   </p>
 </div>
