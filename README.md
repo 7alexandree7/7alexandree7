@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07ace6&height=120&section=header"/>
+[<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07ace6&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alexandre+Oliveira;I'm+21+years+old;I'm+from+Brazil;I+studying+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -22,8 +22,9 @@
 <a href="https://www.linkedin.com/in/alexandre-oliveira-4881a6273/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a><br>
  </div>
   
-
-### Languages and Technologies
+<div>
+  <img align="right" width="498" height="329" src="https://media.tenor.com/UlmNqQlrC6QAAAAi/mega-charizard-x-flying.gif">
+  ### Languages and Technologies
 <p>
   <img alt="HTML" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg">
@@ -39,11 +40,13 @@
 </p>
 
 ### Tools and Platforms
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
   </a>
 </p>
+
+</div>
 
 
 <div align="center">
@@ -55,3 +58,4 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07ace6&height=120&section=footer"/>
 
+](url)
