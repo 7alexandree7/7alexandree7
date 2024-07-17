@@ -11,6 +11,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7alexandree7&layout=compact&hide_border=true&title_color=07ace6&text_color=fff&bg_color=0d1117" />
 </div>
 
+
 <div align="center" style="margin-bottom: 50px  margin-top: 50px;"> 
   <a href="https://instagram.com/xande_anjoss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:alexandredev77@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
