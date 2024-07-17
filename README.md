@@ -30,12 +30,12 @@
 
   <div>
 ### Languages and Technologies
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
   </a>
 </p>
-
+    
 ### Frameworks and Libraries
 <p>
   <img alt="Bootstrap" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg">
