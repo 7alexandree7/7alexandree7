@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=07ace6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alexandre+Oliveira;I'm+22+years+old;I'm+from+Brazil;I+studying+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Alexandre+Oliveira;I'm+21+years+old;I'm+from+Brazil;I+studying+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=7alexandree7&theme=nord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -22,7 +22,7 @@
   <h3>Languages and Technologies</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts" width="30" height="30"/>
     </a>
   </p>
 </div>
@@ -31,7 +31,7 @@
   <h3>Frameworks and Libraries</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=bootstrap,react,nextjs,materialui" />
+      <img src="https://skillicons.dev/icons?i=bootstrap,react,nextjs,materialui" width="30" height="30"/>
     </a>
   </p>
 </div>
@@ -40,7 +40,7 @@
   <h3>Tools and Platforms</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" width="30" height="30"/>
     </a>
   </p>
 </div>
