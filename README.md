@@ -30,12 +30,10 @@
 
   <div>
 ### Languages and Technologies
-<p>
-  <img alt="HTML" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
-  <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg">
-  <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg">
-  <img alt="ts" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/ts.svg">
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+  </a>
 </p>
 
 ### Frameworks and Libraries
