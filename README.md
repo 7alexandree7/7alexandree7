@@ -22,31 +22,36 @@
 <a href="https://www.linkedin.com/in/alexandre-oliveira-4881a6273/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a><br>
  </div>
   
-<div align="center">
-  <img align="right" width="498" height="329" src="https://media.tenor.com/UlmNqQlrC6QAAAAi/mega-charizard-x-flying.gif">
+<!-- Skills -->
+## 💻 Technologies I use in my day-to-day
+<img align="right" width="498" height="329" src="https://media.tenor.com/UlmNqQlrC6QAAAAi/mega-charizard-x-flying.gif">
+
 ### Languages and Technologies
 <p>
-  <img alt="HTML" height="40" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
-  <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg">
-  <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg">
-  <img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg">
+  <img alt="HTML" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
+  <img alt="CSS" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg">
+  <img alt="JavaScript" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg">
+  <img alt="Java" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Java-Dark.svg">
+  <img alt="C++" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg">
 </p>
 
 ### Frameworks and Libraries
 <p>
-  <img alt="Bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg">
-  <img alt="reactjs" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/react.svg">
-  <img alt="MYSQL" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/nextjs.svg">
+  <img alt="Bootstrap" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg">
+  <img alt="PostgreSQL" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg">
+  <img alt="MYSQL" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/MySQL-Dark.svg">
+  
 </p>
 
 ### Tools and Platforms
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" />
-  </a>
+  <img alt="Git" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg">
+  <img alt="Github" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Github-Dark.svg">
+  <img alt="Photoshop" height="60" width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg">
+  <img alt="Vscode" height="60" width="60" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg">
 </p>
 
-</div>
+<!-- Status -->
 
 
 <div align="center">
