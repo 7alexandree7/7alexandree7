@@ -23,7 +23,7 @@
   <h3>Languages and Technologies</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,py" />
     </a>
   </p>
 </div>
