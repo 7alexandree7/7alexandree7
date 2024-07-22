@@ -26,15 +26,12 @@
 |----------|----------|----------|-----|-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html"  alt="html" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3"  alt="css" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Ts" alt="ts" width="50" height="50"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="50" height="50"/>| 
 
-  
 
-### Best frameworks and main libraries for Python3:
+| Selenium | Pandas | Streamlit | MaterialUi | 
+|----------|----------|----------|-----|-----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium"  alt="selenium" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas"  alt="pandas" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="streamlit" alt="streamlit" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Ts" alt="ts" width="50" height="50"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original-wordmark.svg" title="materialui" alt="materialui" width="50" height="50"/>| 
 
-|  | Selenium | Pandas | Streamlit | MaterialUi |
-|----------|----------|----------|----------|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium"  alt="Selenium" width="50" height="50"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="50" height="50"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="streamlit" alt="streamlit" width="50" height="50"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="materialui" alt="materialui" width="50" height="50"/>|
-
-
+ 
 
 ### My tools for Data Manipulation & Visualisation:
 
