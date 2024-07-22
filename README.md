@@ -19,7 +19,7 @@
 </div>
 
 <!-- Skills -->
-<div>
+<div align="center">
 
 ### Languages:
 | Python3 | C | JS | Solidity | GO |
