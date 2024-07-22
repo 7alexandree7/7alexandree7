@@ -29,7 +29,7 @@
 
 ### Best frameworks and main libraries:
 | Selenium | Pandas | Streamlit | MaterialUi |  Reactjs | Nextjs |
-|----------|----------|----------|-----------| |-----------|   |-----------|
+|----------|----------|----------|-----------||-----||-----|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium"  alt="selenium" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas"  alt="pandas" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="streamlit" alt="streamlit" width="50" height="50"/> |   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="materialui" alt="materialui" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="Reactjs"  alt="reactjs" width="50" height="50"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextsJs"  alt="nextjs" width="50" height="50"/>
 
  
