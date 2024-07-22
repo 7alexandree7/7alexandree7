@@ -34,7 +34,7 @@
 
  
 
-### My tools for Data Manipulation & Visualisation:
+### Tools and Platforms:
 
 | VsCode | PyCharm | Git | GitHub | Vite | NPM | 
 |----------|----------|----------|----------|----------|----------|
