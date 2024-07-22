@@ -30,7 +30,7 @@
 ### Best frameworks and main libraries:
 | Selenium | Pandas | Streamlit | MaterialUi | 
 |----------|----------|----------|-----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium"  alt="selenium" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas"  alt="pandas" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="streamlit" alt="streamlit" width="50" height="50"/> |   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/seleniumi-original-wordmark.svg" title="selenium" alt="selenium" width="50" height="50"/> |
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="selenium"  alt="selenium" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas"  alt="pandas" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-original.svg" title="streamlit" alt="streamlit" width="50" height="50"/> |   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original-wordmark.svg" title="materialui" alt="materialui" width="50" height="50"/> |
 
  
 
