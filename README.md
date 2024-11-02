@@ -28,9 +28,9 @@
 
 
 ### Best frameworks and main libraries:
-| Material |  Reactjs | Nextjs | NodeJs | R Router
-|-------|----------|----------|----------|----------|
-|    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="materialui" alt="materialui" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="Reactjs"  alt="reactjs" width="50" height="50"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextsJs"  alt="nextjs" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="nodejs" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" title="React Router"  alt="reactrouter" width="50" height="50"/>
+ Tailwindcss | Material |  Reactjs | Nextjs | NodeJs | R Router |
+|-------|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" alt="Tailwindcss" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="materialui" alt="materialui" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="Reactjs"  alt="reactjs" width="50" height="50"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextsJs"  alt="nextjs" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="nodejs" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" title="React Router"  alt="reactrouter" width="50" height="50"/>
 
  
 
