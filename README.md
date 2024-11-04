@@ -27,10 +27,10 @@
 |  <img align="center"  src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html"  alt="html" width="40" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3"  alt="css" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Ts" alt="ts" width="50" height="50"/>|  
 
 
-### Best frameworks and main libraries:
- Tailwind | Material |  Reactjs | Nextjs | NodeJs | R Router |
-|-------|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" alt="Tailwindcss" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="materialui" alt="materialui" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="Reactjs"  alt="reactjs" width="50" height="50"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextsJs"  alt="nextjs" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="nodejs" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" title="React Router"  alt="reactrouter" width="50" height="50"/>
+### Best frameworks:
+ Tailwind |  Reactjs | Nextjs | NodeJs |
+|-------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" alt="Tailwindcss" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="Reactjs"  alt="reactjs" width="50" height="50"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextsJs"  alt="nextjs" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="nodejs" width="50" height="50"/>
 
 
 ### Best libraries:
