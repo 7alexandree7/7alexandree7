@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=7alexandree7&show_icons=true&count_private=true&hide_border=true&title_color=07ace6&icon_color=07ace6&text_color=c9d1d9&bg_color=0d1117" alt="Alexandre Oliveira's github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=7alexandree7&show_icons=true&count_private=true&hide_border=true&title_color=07ace6&icon_color=07ace6&text_color=#A8A9AC&bg_color=#A8A9AC" alt="Alexandre Oliveira's github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7alexandree7&layout=compact&hide_border=true&title_color=#A8A9AC&text_color=#A8A9AC&bg_color=#A8A9AC" />
 </div>
 
