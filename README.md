@@ -6,10 +6,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=7alexandree7&theme=nord&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+<br>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=7alexandree7&show_icons=true&count_private=true&hide_border=true&title_color=A8A9AC&icon_color=A8A9AC&text_color=A8A9AC&bg_color=0D1117" alt="Alexandre Oliveira's github stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7alexandree7&layout=compact&hide_border=true&title_color=A8A9AC&text_color=A8A9AC&bg_color=0D1117" />
 </div>
+
+/br>
 
 
 <div align="center" style="margin-bottom: 50px  margin-top: 50px;"> 
