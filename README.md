@@ -54,7 +54,7 @@
 </div>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://media.licdn.com/dms/image/v2/D4D16AQEAtlIYyvg30A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732065752997?e=1737590400&v=beta&t=jY38y_AYuFcqwhcrxwt8XJLaePI6jPSKtHWqxD9QzAU" /> 
+  <img width="100%" height="350px" src="https://media.licdn.com/dms/image/v2/D4D16AQEAtlIYyvg30A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1732065752997?e=1737590400&v=beta&t=jY38y_AYuFcqwhcrxwt8XJLaePI6jPSKtHWqxD9QzAU" /> 
 </div>
 
 
