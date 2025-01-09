@@ -38,7 +38,7 @@
 
 
 ### Best libraries:
-| Material | Styled C... |   MagicUi | Shadcn  |  R Router | Axios
+| Material | Styled C|   MagicUi | Shadcn  |  R Router | Axios
 |-------|----------|----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="materialui" alt="materialui" width="50" height="50"/>|  <img src="https://diegolincoln.gallerycdn.vsassets.io/extensions/diegolincoln/vscode-styled-components/0.1.33/1633502922389/Microsoft.VisualStudio.Services.Icons.Default" title="Styled Componentes" alt="custom-image" width="50" height="50"/> | <img src="https://magicui.design/icon.png" title="MagicUi" alt="custom-image" width="50" height="50"/> | <img src="https://github.com/user-attachments/assets/7232ad9d-9f2e-4351-8463-26e5794b759d" alt="custom-image" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" title="React Router"  alt="reactrouter" width="50" height="50"/> | <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/axios_logo_icon_168545.png" title="Axios" alt="axios" width="50" height="50"/> |
 
