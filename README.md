@@ -52,11 +52,4 @@
 </div>
 
 
-
-<div align="center">
-  <br><p align="center"><b>Visitors Count</b></p>  
-  <p align="center"><img src="https://profile-counter.glitch.me/{7alexandree7}/count.svg" /></p> 
-  <br>
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
