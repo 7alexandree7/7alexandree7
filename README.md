@@ -54,7 +54,7 @@
 ### Authentication tools:
 | JWT | Clerk | Auth.js
 |-------|----------|----------|
-| <img src="https://imgs.search.brave.com/ZStZhmRbesRfmPP2nSdEht8nArrY0pNPs7AnIslPh6o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/anNkZWxpdnIubmV0/L2doL2hvbWFyci1s/YWJzL2Rhc2hib2Fy/ZC1pY29ucy9zdmcv/and0LWlvLnN2Zw" title="JWT" alt="JWT" width="50" height="50"/> | <img src="https://clerk.com/_next/image?url=%2Fv2%2Fdownloads%2Fmark-primary.svg&w=1200&q=75" title="Clerk" alt="Clerk" width="45" height="45"/> |  <img src="https://github.com/user-attachments/assets/90435b56-a15b-4d9c-97de-1d3ee1b3443c" title="Auth.js" alt="Auth" width="45" height="45"/> /> |
+| <img src="https://imgs.search.brave.com/ZStZhmRbesRfmPP2nSdEht8nArrY0pNPs7AnIslPh6o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/anNkZWxpdnIubmV0/L2doL2hvbWFyci1s/YWJzL2Rhc2hib2Fy/ZC1pY29ucy9zdmcv/and0LWlvLnN2Zw" title="JWT" alt="JWT" width="50" height="50"/> | <img src="https://clerk.com/_next/image?url=%2Fv2%2Fdownloads%2Fmark-primary.svg&w=1200&q=75" title="Clerk" alt="Clerk" width="45" height="45"/> |  <img src="https://github.com/user-attachments/assets/90435b56-a15b-4d9c-97de-1d3ee1b3443c" title="Auth.js" alt="Auth" width="44" height="44"/> |
 
 
   
