@@ -52,9 +52,9 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="materialui" alt="materialui" width="50" height="50"/>|  <img src="https://diegolincoln.gallerycdn.vsassets.io/extensions/diegolincoln/vscode-styled-components/0.1.33/1633502922389/Microsoft.VisualStudio.Services.Icons.Default" title="Styled Componentes" alt="custom-image" width="50" height="50"/> | <img src="https://magicui.design/icon.png" title="MagicUi" alt="custom-image" width="50" height="50"/> | <img src="https://github.com/user-attachments/assets/7232ad9d-9f2e-4351-8463-26e5794b759d" alt="custom-image" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" title="React Router"  alt="reactrouter" width="50" height="50"/> | <img src="https://cdn.prod.website-files.com/5e15f2810711e60690da7e39/5e22427b60a395fba7707b2d_apple-webclip.png" title="Axios" alt="axios" width="50" height="50"/> |
 
 ### Authentication tools:
-| JWT | Clerk
-|-------|----------|
-| <img src="https://imgs.search.brave.com/ZStZhmRbesRfmPP2nSdEht8nArrY0pNPs7AnIslPh6o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/anNkZWxpdnIubmV0/L2doL2hvbWFyci1s/YWJzL2Rhc2hib2Fy/ZC1pY29ucy9zdmcv/and0LWlvLnN2Zw" title="JWT" alt="JWT" width="50" height="50"/> | <img src="https://clerk.com/_next/image?url=%2Fv2%2Fdownloads%2Fmark-primary.svg&w=1200&q=75" title="Clerk" alt="Clerk" width="45" height="45"/> |
+| JWT | Clerk | Auth.js
+|-------|----------|----------|
+| <img src="https://imgs.search.brave.com/ZStZhmRbesRfmPP2nSdEht8nArrY0pNPs7AnIslPh6o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/anNkZWxpdnIubmV0/L2doL2hvbWFyci1s/YWJzL2Rhc2hib2Fy/ZC1pY29ucy9zdmcv/and0LWlvLnN2Zw" title="JWT" alt="JWT" width="50" height="50"/> | <img src="https://clerk.com/_next/image?url=%2Fv2%2Fdownloads%2Fmark-primary.svg&w=1200&q=75" title="Clerk" alt="Clerk" width="45" height="45"/> |  <img src="https://clerk.com/_next/image?url=%2Fv2%2Fdownloads%2Fmark-primary.svg&w=1200&q=75" title="Clerk" alt="Clerk" width="45" height="45"/> |
 
 
   
