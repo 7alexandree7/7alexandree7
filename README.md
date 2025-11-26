@@ -43,7 +43,7 @@
 ### ORM / ODM
  Prisma |  Mongoose | 
 |-------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="Prisma" alt="prisma" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Mongoose"  alt="mongoose" width="40" height="40"/>  | 
+| <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="Prisma" alt="prisma" width="50" height="50"/> | <img align="center"  src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Mongoose"  alt="mongoose" width="50" height="50"/>  | 
 
 
 ### Best libraries:
