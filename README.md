@@ -51,13 +51,5 @@
 
 </div>
 
-<br>
-
-<div align="center">
-
-  <!-- Painel completo -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7alexandree7&theme=github_dark" alt="Resumo de Perfil" />
-</div>
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
