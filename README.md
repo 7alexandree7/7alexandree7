@@ -6,9 +6,19 @@
 
 <br>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=7alexandree7&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=E4405F&text_color=A8A9AC&bg_color=0D1117" alt="Alexandre Oliveira's github stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7alexandree7&layout=compact&hide_border=true&title_color=ffffff&text_color=A8A9AC&bg_color=0D1117" />
+<div align="center">
+
+  <!-- Painel completo -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=7alexandree7&theme=github_dark" alt="Resumo de Perfil" />
+
+  <!-- Estatísticas -->
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=7alexandree7&theme=github_dark" alt="GitHub Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=7alexandree7&theme=github_dark&utcOffset=-3" alt="Horários Mais Produtivos" />
+
+  <!-- Linguagens -->
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=7alexandree7&theme=github_dark" alt="Linguagens por Repositório" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=7alexandree7&theme=github_dark" alt="Linguagens Mais Cometidas" />
+
 </div>
 
 <br>
