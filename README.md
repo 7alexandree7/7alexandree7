@@ -1,7 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C0C0C0&size=35&center=true&vCenter=true&width=1000&lines=Alexandre+Oliveira;Full+Stack+Developer+%7C+Desenvolvedor+Full+Stack;React.js,+Next.js,+Node,+Prisma,+PostgreSQL,+MongoDB;Welcome+%7C+Bem-vindo!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C0C0C0&size=35&center=true&vCenter=true&width=1000&lines=Alexandre+Oliveira;Full+Stack+Developer+%7C+Desenvolvedor+Full+Stack;Front-End:+TypeScript,+React,+Next.js,+TailwindCSS;Back-End:+Node,+Prisma,+Mongoose,+MongoDB,+PostgreSQL;Welcome+%7C+Bem-vindo!)](https://git.io/typing-svg)
 
 <br>
 
