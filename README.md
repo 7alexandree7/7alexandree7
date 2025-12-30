@@ -34,7 +34,7 @@
 
 ### ORM / ODM
  Cloud / Serverless Database: 
-|-------|----------|
+|-------
 | <img src="https://neon.com/favicon/favicon.png" title="NeonDB" alt="NeonDB" width="50" height="50"/> |
 
 
