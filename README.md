@@ -32,8 +32,8 @@
 |-------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="Prisma" alt="prisma" width="50" height="50"/> | <img align="center"  src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Mongoose"  alt="mongoose" width="50" height="50"/>  | 
 
-### ORM / ODM
- Cloud / Serverless Database: 
+### Cloud / Serverless Database:
+ NeonDb
 |-------
 | <img src="https://neon.com/favicon/favicon.png" title="NeonDB" alt="NeonDB" width="50" height="50"/> |
 
