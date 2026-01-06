@@ -28,9 +28,9 @@
 
 
 ### ORM / ODM
- Prisma |  Mongoose | 
-|-------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="Prisma" alt="prisma" width="50" height="50"/> | <img align="center"  src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Mongoose"  alt="mongoose" width="50" height="50"/>  | 
+ Prisma |  Mongoose | Drizzle |
+|-------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="Prisma" alt="prisma" width="50" height="50"/> | <img align="center"  src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Mongoose"  alt="mongoose" width="50" height="50"/>  |  <img align="center"  src="https://pub-e240a4fd7085425baf4a7951e7611520.r2.dev/gateway-logo.png" title="Drizzle"  alt="drizzle" width="50" height="50"/>  | 
 
 ### Cloud / Serverless Database:
  NeonDb
