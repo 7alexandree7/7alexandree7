@@ -35,7 +35,7 @@
 ### Cloud / Serverless Database:
  NeonDb
 |-------
-| <img src="https://neon.com/favicon/favicon.png" title="NeonDB" alt="NeonDB" width="50" height="50"/> |
+| <img src="https://community.appsmith.com/sites/default/files/2024-03/neondatabase_logo.jpeg" title="NeonDB" alt="NeonDB" width="50" height="50"/> |
 
 
 
