@@ -16,10 +16,12 @@
 |-------|----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" alt="Tailwindcss" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="Reactjs"  alt="reactjs" width="50" height="50"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextsJs"  alt="nextjs" width="50" height="50"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express"  alt="express" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastApi"  alt="fastapi" width="50" height="50"/> |
 
+
 ### Database:
- PostgreSQL|  MongoDB |
-|-------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgresSQL" alt="postgresql" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="mongodb" width="50" height="50"/>   | 
+
+PostgreSQL | MongoDB
+|----------|----------|
+| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="postgresql" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="mongodb" width="50" height="50"/></p> |
 
 
 ### ORM / ODM
