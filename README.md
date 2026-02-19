@@ -55,7 +55,7 @@ Prisma | Drizzle | Mongoose | SQLAlchemy
   
 ### Tools and Platforms:
 
-| Eslint | Biomejs | Git | GitHub | Vite | Bun |  NPM | PNPM | Vercel | NodeJs | json
+| Eslint | Biomejs | Git | GitHub | Vite | Bun |  NPM | PNPM | Vercel | NodeJs | json |
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="EsLint" alt="Eslint" width="50" height="50"/></p> |  | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/biome/biome-original.svg" title="Biomejs" alt="Biomejs" width="50" height="50"/></p> | 
  
