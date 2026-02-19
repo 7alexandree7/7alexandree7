@@ -55,10 +55,10 @@ Prisma | Drizzle | Mongoose | SQLAlchemy
   
 ### Tools and Platforms:
 
-| Eslint | Biomejs |
-|----------|----------|
-| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="EsLint" alt="Eslint" width="50" height="50"/></p> |  | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/biome/biome-original.svg" title="Biomejs" alt="Biomejs" width="50" height="50"/></p> | 
- 
+| Material | Styled C | MagicUi | Shadcn | R Router | Axios | Zod | RHF | Zustand | R Query |
+|----------|----------|---------|--------|----------|-------|-----|-----|---------|---------|
+| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="materialui" width="50" height="50"/></p> | <p align="center"><img src="https://diegolincoln.gallerycdn.vsassets.io/extensions/diegolincoln/vscode-styled-components/0.1.33/1633502922389/Microsoft.VisualStudio.Services.Icons.Default" title="Styled Components" alt="styled-components" width="50" height="50"/></p> | <p align="center"><img src="https://magicui.design/icon.png" title="Magic UI" alt="magicui" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/user-attachments/assets/7232ad9d-9f2e-4351-8463-26e5794b759d" title="Shadcn UI" alt="shadcn" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" title="React Router" alt="reactrouter" width="50" height="50"/></p> | <p align="center"><img src="https://cdn.prod.website-files.com/5e15f2810711e60690da7e39/5e22427b60a395fba7707b2d_apple-webclip.png" title="Axios" alt="axios" width="50" height="50"/></p> | <p align="center"><img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/5/zod-jxeoj68ny4h94671educq4.png/zod-xe0a17we1j8ox6lns9ruf.png?_a=DATAg1AAZAA0" title="Zod" alt="zod" width="50" height="50"/></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/53986236?s=280&v=4" title="React Hook Form" alt="react-hook-form" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/zustand/zustand-original.svg" title="Zustand" alt="zustand" width="50" height="50"/></p> | <p align="center"><img src="https://svgicons.com/api/ogimage/?id=111777&n=react-query-icon" title="TanStack Query" alt="tanstack-query" width="50" height="50"/></p> |
+
 
 </div>
 
