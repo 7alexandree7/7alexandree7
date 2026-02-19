@@ -56,7 +56,7 @@ Prisma | Drizzle | Mongoose | SQLAlchemy
 ### Runtime
 | Node | Bun |
 |-------|-------|
-<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="nodejs" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/bun/bun-original.svg" title="Bun" alt="bun" width="50" height="50"/></p> |
+| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="nodejs" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/bun/bun-original.svg" title="Bun" alt="bun" width="50" height="50"/></p> |
 
 
 ### Tools and Platforms:
