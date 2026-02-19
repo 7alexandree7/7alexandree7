@@ -52,12 +52,18 @@ Prisma | Drizzle | Mongoose | SQLAlchemy
 | <img src="https://imgs.search.brave.com/ZStZhmRbesRfmPP2nSdEht8nArrY0pNPs7AnIslPh6o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/anNkZWxpdnIubmV0/L2doL2hvbWFyci1s/YWJzL2Rhc2hib2Fy/ZC1pY29ucy9zdmcv/and0LWlvLnN2Zw" title="JWT" alt="JWT" width="50" height="50"/> | <img src="https://clerk.com/_next/image?url=%2Fv2%2Fdownloads%2Fmark-primary.svg&w=1200&q=75" title="Clerk" alt="Clerk" width="45" height="45"/> |  <img src="https://github.com/user-attachments/assets/90435b56-a15b-4d9c-97de-1d3ee1b3443c" title="Auth.js" alt="Auth" width="44" height="44"/> |
 
 
-  
+
+### Tools and Platforms:
+| Node | Bun |
+|-------|-------
+<p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="nodejs" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/bun/bun-original.svg" title="Bun" alt="bun" width="50" height="50"/></p> |
+
+
 ### Tools and Platforms:
 
-| Eslint | Biomejs | Git | GitHub | Vite | Bun | NPM | PNPM | Vercel | Node |
-|----------|----------|---------|--------|----------|-------|--------|--------|---------|--------|
-| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="EsLint" alt="eslint" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/biome/biome-original.svg" title="BiomeJs" alt="biomejs" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="github" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="vite" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/bun/bun-original.svg" title="Bun" alt="bun" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original.svg" title="NPM" alt="npm" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original.svg" title="PNPM" alt="PNPM" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Vercel" alt="vercel" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="nodejs" width="50" height="50"/></p> |
+| Eslint | Biomejs | Git | GitHub | Vite | NPM | PNPM | Vercel |
+|----------|----------|---------|--------|----------|-------|--------|--------|
+| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="EsLint" alt="eslint" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/biome/biome-original.svg" title="BiomeJs" alt="biomejs" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="github" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="vite" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original.svg" title="NPM" alt="npm" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original.svg" title="PNPM" alt="PNPM" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Vercel" alt="vercel" width="50" height="50"/></p> | 
 
 
 </div>
