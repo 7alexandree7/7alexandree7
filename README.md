@@ -57,17 +57,8 @@ Prisma | Drizzle | Mongoose | SQLAlchemy
 
 | Eslint | Biomejs | Git | GitHub | Vite | Bun |  NPM | PNPM | Vercel | NodeJs | json
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| <img  src='https://pbs.twimg.com/profile_images/1602794923152969728/MRPc9O2B_400x400.png' title="Eslint" alt="Eslint" width="50" height="50"/> | 
-<img  src='https://github.com/devicons/devicon/blob/master/icons/biome/biome-original.svg' title="BiomeJs" alt="BiomeJs" width="50" height="50"/> |
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="50" height="50"/> |
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="50" height="50"/> |
-<img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="vite" alt="vite" width="50" height="50"/> | 
-<img src="https://github.com/devicons/devicon/blob/master/icons/bun/bun-original.svg" title="Bun" alt="Bun" width="50" height="50"/> |
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="50" height="50"/> |
-<img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original-wordmark.svg" title="pnpm" alt="pnpm" width="50" height="50"/> |
-<img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="Vercel" alt="vercel" width="50" height="50"/> |
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="nodejs" width="50" height="50"/> |
-<img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="json" alt="json" width="50" height="50"/> | 
+| <img  src='https://pbs.twimg.com/profile_images/1602794923152969728/MRPc9O2B_400x400.png' title="Eslint" alt="Eslint" width="50" height="50"/> |  <img  src='https://github.com/devicons/devicon/blob/master/icons/biome/biome-original.svg' title="BiomeJs" alt="BiomeJs" width="50" height="50"/> |  <img  src='https://github.com/devicons/devicon/blob/master/icons/biome/biome-original.svg' title="BiomeJs" alt="BiomeJs" width="50" height="50"/> | <img  src='https://github.com/devicons/devicon/blob/master/icons/biome/biome-original.svg' title="BiomeJs" alt="BiomeJs" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="vite" alt="vite" width="50" height="50"/> |   <img src="https://github.com/devicons/devicon/blob/master/icons/bun/bun-original.svg" title="Bun" alt="Bun" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/pnpm/pnpm-original-wordmark.svg" title="pnpm" alt="pnpm" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="Vercel" alt="vercel" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="nodejs" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="json" alt="json" width="50" height="50"/> | 
+ 
 
 </div>
 
