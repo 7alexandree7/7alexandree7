@@ -12,14 +12,14 @@
 
 
 ### Best frameworks:
- Tailwind |  Reactjs | Nextjs | Express | Fastify 
+ Tailwind |  Reactjs | Nextjs | Express | Fastify |
 |-------|----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" alt="Tailwindcss" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="Reactjs"  alt="reactjs" width="50" height="50"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextsJs"  alt="nextjs" width="50" height="50"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express"  alt="express" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original.svg" title="Fastify"  alt="fastify" width="50" height="50"/>  |
 
 
 ### Database:
 
-PostgreSQL | MongoDB
+PostgreSQL | MongoDB |
 |----------|----------|
 | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="postgresql" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="mongodb" width="50" height="50"/></p> |
 
@@ -47,9 +47,16 @@ Prisma | Drizzle | Mongoose |
 
 
 ### Authentication tools:
-| JWT | Clerk | Auth.js
+| JWT | Clerk | Auth.js |
 |-------|----------|----------|
 | <img src="https://imgs.search.brave.com/ZStZhmRbesRfmPP2nSdEht8nArrY0pNPs7AnIslPh6o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/anNkZWxpdnIubmV0/L2doL2hvbWFyci1s/YWJzL2Rhc2hib2Fy/ZC1pY29ucy9zdmcv/and0LWlvLnN2Zw" title="JWT" alt="JWT" width="50" height="50"/> | <img src="https://clerk.com/_next/image?url=%2Fv2%2Fdownloads%2Fmark-primary.svg&w=1200&q=75" title="Clerk" alt="Clerk" width="45" height="45"/> |  <img src="https://github.com/user-attachments/assets/90435b56-a15b-4d9c-97de-1d3ee1b3443c" title="Auth.js" alt="Auth" width="44" height="44"/> |
+
+
+### DevOps & Infrastructure:
+
+| Docker | Docker Compose |
+|----------|----------|
+| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/docer/docker-original.svg" title="Docker" alt="docker" width="50" height="50"/></p> | | <p align="center"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/docker-compose.png" title="Docker Compose" alt="docker compose" width="50" height="50"/></p> |
 
 
 
