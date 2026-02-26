@@ -56,7 +56,7 @@ Prisma | Drizzle | Mongoose |
 
 | Docker | xs |
 |----------|----------|
-| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="docker" width="50" height="50"/></p> |  <p align="center"><img src="https://image.pngaaa.com/22/4852022-middle.png" title="xs" alt="docker compose" width="50" height="50"/></p> |
+| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="docker" width="50" height="50"/></p> |  <p align="center"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/docker-compose.png" title="xs" alt="docker compose" width="50" height="50"/></p> |
 
 
 ### Runtime
