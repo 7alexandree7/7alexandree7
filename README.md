@@ -12,9 +12,9 @@
 
 
 ### Best frameworks:
- Tailwind |  Reactjs | Nextjs | Express | Fastify | FastyAPI |
-|-------|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" alt="Tailwindcss" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="Reactjs"  alt="reactjs" width="50" height="50"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextsJs"  alt="nextjs" width="50" height="50"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express"  alt="express" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original.svg" title="Fastify"  alt="fastify" width="50" height="50"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" title="FastApi"  alt="fastapi" width="50" height="50"/> |
+ Tailwind |  Reactjs | Nextjs | Express | Fastify 
+|-------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" alt="Tailwindcss" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="Reactjs"  alt="reactjs" width="50" height="50"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextsJs"  alt="nextjs" width="50" height="50"/>  | <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express"  alt="express" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original.svg" title="Fastify"  alt="fastify" width="50" height="50"/>  |
 
 
 ### Database:
@@ -26,9 +26,9 @@ PostgreSQL | MongoDB
 
 ### ORM / ODM
 
-Prisma | Drizzle | Mongoose | SQLAlchemy
-|-------|----------|----------|---------|
-| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="Prisma" alt="prisma" width="50" height="50"/></p> | <p align="center"><img src="https://pub-e240a4fd7085425baf4a7951e7611520.r2.dev/gateway-logo.png" title="Drizzle" alt="drizzle" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Mongoose" alt="mongoose" width="50" height="50"/></p> | <p align="center"><img src="https://buildwithlayer.gallerycdn.vsassets.io/extensions/buildwithlayer/sqlalchemy-integration-expert-jyszg/0.0.13/1740523961608/Microsoft.VisualStudio.Services.Icons.Default" title="SQLAlchemy" alt="SQLAlchemy" width="50" height="50"/></p> |
+Prisma | Drizzle | Mongoose |
+|-------|----------|----------|
+| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="Prisma" alt="prisma" width="50" height="50"/></p> | <p align="center"><img src="https://pub-e240a4fd7085425baf4a7951e7611520.r2.dev/gateway-logo.png" title="Drizzle" alt="drizzle" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Mongoose" alt="mongoose" width="50" height="50"/></p> | 
 
 
 ### Cloud / Serverless Database:
