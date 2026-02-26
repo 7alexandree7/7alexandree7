@@ -54,10 +54,9 @@ Prisma | Drizzle | Mongoose |
 
 ### DevOps & Infrastructure:
 
-| Docker | Docker Compose |
+| Docker | xs |
 |----------|----------|
-| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="docker" width="50" height="50"/></p> | | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker Compose" alt="docker compose" width="50" height="50"/></p> |
-
+| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="docker" width="50" height="50"/></p> |  <p align="center"><img src="https://image.pngaaa.com/22/4852022-middle.png" title="xs" alt="docker compose" width="50" height="50"/></p> |
 
 
 ### Runtime
