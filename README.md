@@ -56,7 +56,7 @@ Prisma | Drizzle | Mongoose |
 
 | Docker | Docker Compose |
 |----------|----------|
-| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="docker" width="50" height="50"/></p> | | <p align="center"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaSaTPQPKCcfeviNLL9ZKaNITiyHXyJatyaw&s" title="Docker Compose" alt="docker compose" width="50" height="50"/></p> |
+| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="docker" width="50" height="50"/></p> | | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker Compose" alt="docker compose" width="50" height="50"/></p> |
 
 
 
