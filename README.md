@@ -32,9 +32,9 @@ Prisma | Drizzle | Mongoose |
 
 
 ### Cloud / Serverless Database:
- NeonDb
-|-------
-| <img src="https://community.appsmith.com/sites/default/files/2024-03/neondatabase_logo.jpeg" title="NeonDB" alt="NeonDB" width="50" height="50"/> |
+ NeonDb | Supabase |
+|-------|-------
+| <img src="https://community.appsmith.com/sites/default/files/2024-03/neondatabase_logo.jpeg" title="NeonDB" alt="NeonDB" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="50" height="50"/> |
 
 
 
