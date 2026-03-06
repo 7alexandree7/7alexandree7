@@ -13,7 +13,7 @@
 
 ### Best frameworks:
  Tailwind |  Reactjs | Nextjs  | Express | Fastify |
-|-------|----------|----------|----------|----------| ----------|
+|-------|----------|----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" alt="Tailwindcss" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="Reactjs"  alt="reactjs" width="50" height="50"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextsJs"  alt="nextjs" width="50" height="50"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express"  alt="express" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original.svg" title="Fastify"  alt="fastify" width="50" height="50"/>  |
 
 
