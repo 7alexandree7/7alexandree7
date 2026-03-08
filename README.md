@@ -31,7 +31,7 @@ Prisma | Drizzle | Mongoose |
 | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="Prisma" alt="prisma" width="50" height="50"/></p> | <p align="center"><img src="https://pub-e240a4fd7085425baf4a7951e7611520.r2.dev/gateway-logo.png" title="Drizzle" alt="drizzle" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Mongoose" alt="mongoose" width="50" height="50"/></p> | 
 
 
-### Cloud / Serverless Database:
+### Backend & Cloud
  NeonDb | Supabase |
 |-------|-------|
 | <p align="center"><img src="https://community.appsmith.com/sites/default/files/2024-03/neondatabase_logo.jpeg" title="NeonDB" alt="NeonDB" width="50" height="50"/></p>  | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="50" height="50"/></p> | 
