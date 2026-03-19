@@ -17,6 +17,13 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwindcss" alt="Tailwindcss" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="Reactjs"  alt="reactjs" width="50" height="50"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="NextsJs"  alt="nextjs" width="50" height="50"/>  |  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express"  alt="express" width="50" height="50"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/fastify/fastify-original.svg" title="Fastify"  alt="fastify" width="50" height="50"/>  | <p align="center"><img src="https://www.iquest.cz/_next/image?url=%2Ftechnology%2Freact-native.png&w=640&q=75" title="React Native" alt="React Native" width="70" height="70"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/expo/expo-original.svg" title="Expo" alt="Expo" width="50" height="50"/></p> | 
 
 
+### Best libraries:
+
+| Material | Styled C | MagicUi | Shadcn | R Router | Axios | Zod | RHF | Zustand | Tanstack Query |
+|----------|----------|---------|--------|----------|-------|-----|-----|---------|---------|
+| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="materialui" width="50" height="50"/></p> | <p align="center"><img src="https://diegolincoln.gallerycdn.vsassets.io/extensions/diegolincoln/vscode-styled-components/0.1.33/1633502922389/Microsoft.VisualStudio.Services.Icons.Default" title="Styled Components" alt="styled-components" width="50" height="50"/></p> | <p align="center"><img src="https://magicui.design/icon.png" title="Magic UI" alt="magicui" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/user-attachments/assets/7232ad9d-9f2e-4351-8463-26e5794b759d" title="Shadcn UI" alt="shadcn" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" title="React Router" alt="reactrouter" width="50" height="50"/></p> | <p align="center"><img src="https://cdn.prod.website-files.com/5e15f2810711e60690da7e39/5e22427b60a395fba7707b2d_apple-webclip.png" title="Axios" alt="axios" width="50" height="50"/></p> | <p align="center"><img src="https://zod.dev/_next/image?url=%2Flogo%2Flogo-glow.png&w=640&q=100" title="Zod" alt="zod" width="50" height="50"/></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/53986236?s=280&v=4" title="React Hook Form" alt="react-hook-form" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/zustand/zustand-original.svg" title="Zustand" alt="zustand" width="50" height="50"/></p> | <p align="center"><img src="https://svgicons.com/api/ogimage/?id=111777&n=react-query-icon" title="TanStack Query" alt="tanstack-query" width="50" height="50"/></p> |
+
+
 ### Database:
 
 PostgreSQL | MongoDB |
@@ -31,18 +38,10 @@ Prisma | Drizzle | Mongoose |
 | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="Prisma" alt="prisma" width="50" height="50"/></p> | <p align="center"><img src="https://pub-e240a4fd7085425baf4a7951e7611520.r2.dev/gateway-logo.png" title="Drizzle" alt="drizzle" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Mongoose" alt="mongoose" width="50" height="50"/></p> | 
 
 
-### Backend & Cloud
+### Backend as a Service (BaaS) / Cloud
  NeonDb | Supabase |
 |-------|-------|
 | <p align="center"><img src="https://community.appsmith.com/sites/default/files/2024-03/neondatabase_logo.jpeg" title="NeonDB" alt="NeonDB" width="50" height="50"/></p>  | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="50" height="50"/></p> | 
-
-
-
-### Best libraries:
-
-| Material | Styled C | MagicUi | Shadcn | R Router | Axios | Zod | RHF | Zustand | Tanstack Query |
-|----------|----------|---------|--------|----------|-------|-----|-----|---------|---------|
-| <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="materialui" width="50" height="50"/></p> | <p align="center"><img src="https://diegolincoln.gallerycdn.vsassets.io/extensions/diegolincoln/vscode-styled-components/0.1.33/1633502922389/Microsoft.VisualStudio.Services.Icons.Default" title="Styled Components" alt="styled-components" width="50" height="50"/></p> | <p align="center"><img src="https://magicui.design/icon.png" title="Magic UI" alt="magicui" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/user-attachments/assets/7232ad9d-9f2e-4351-8463-26e5794b759d" title="Shadcn UI" alt="shadcn" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" title="React Router" alt="reactrouter" width="50" height="50"/></p> | <p align="center"><img src="https://cdn.prod.website-files.com/5e15f2810711e60690da7e39/5e22427b60a395fba7707b2d_apple-webclip.png" title="Axios" alt="axios" width="50" height="50"/></p> | <p align="center"><img src="https://zod.dev/_next/image?url=%2Flogo%2Flogo-glow.png&w=640&q=100" title="Zod" alt="zod" width="50" height="50"/></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/53986236?s=280&v=4" title="React Hook Form" alt="react-hook-form" width="50" height="50"/></p> | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/zustand/zustand-original.svg" title="Zustand" alt="zustand" width="50" height="50"/></p> | <p align="center"><img src="https://svgicons.com/api/ogimage/?id=111777&n=react-query-icon" title="TanStack Query" alt="tanstack-query" width="50" height="50"/></p> |
 
 
 
