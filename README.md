@@ -39,9 +39,9 @@ Prisma | Drizzle | Mongoose |
 
 
 ### Backend as a Service (BaaS) / Cloud
- NeonDb | Supabase |
-|-------|-------|
-| <p align="center"><img src="https://community.appsmith.com/sites/default/files/2024-03/neondatabase_logo.jpeg" title="NeonDB" alt="NeonDB" width="50" height="50"/></p>  | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="50" height="50"/></p> | 
+ NeonDb | Supabase | Convex
+|-------|-------|-------|
+| <p align="center"><img src="https://community.appsmith.com/sites/default/files/2024-03/neondatabase_logo.jpeg" title="NeonDB" alt="NeonDB" width="50" height="50"/></p>  | <p align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="50" height="50"/></p> | <p align="center"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/convex.webp" title="Convex" alt="Convex" width="50" height="50"/></p>  |
 
 
 
